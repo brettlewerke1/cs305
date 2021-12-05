@@ -7,3 +7,6 @@
 #
 #
 # I love sharks and football
+
+
+This is my contribution to this so i can do the pull request :) - Kristiana K
